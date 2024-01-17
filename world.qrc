@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>world_images/maze1.png</file>
+        <file>world_images/maze2.png</file>
+        <file>world_images/maze3.png</file>
+        <file>world_images/worldmap.png</file>
+        <file>world_images/worldmap4.png</file>
+        <file>world_images/CO27B6~1.BMP</file>
+        <file>world_images/COLLIS~1.BMP</file>
+        <file>world_images/COLLIS~2.BMP</file>
+        <file>world_images/COLLIS~3.BMP</file>
+        <file>world_images/COLLIS~4.BMP</file>
+    </qresource>
+</RCC>

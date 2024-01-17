@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sprite_images/PEnemy.jpg</file>
+        <file>sprite_images/protagonist.png</file>
+        <file>sprite_images/healthpack.png</file>
+        <file>sprite_images/energy_recharge.png</file>
+        <file>sprite_images/enemy.png</file>
+        <file>sprite_images/poisonned.png</file>
+        <file>sprite_images/mario_XEnemy.png</file>
+        <file>sprite_images/mario_healthpack.png</file>
+        <file>sprite_images/mario_happy.png</file>
+        <file>sprite_images/mario.png</file>
+        <file>sprite_images/skull.png</file>
+        <file>sprite_images/mario2.png</file>
+        <file>sprite_images/attack.png</file>
+    </qresource>
+</RCC>

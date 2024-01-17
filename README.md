@@ -1,0 +1,3 @@
+# Media Processing Final assignment
+
+This repository contains the source code for the final assignment of the masters course on media processing (advanced programming techniques). Its a group project where we had to design and build a 2D game using the Qt library. In group we designed a UML and implemented the controllers, moreover I was mainly responsible to implement the A* algorithm for path finding purposes.
